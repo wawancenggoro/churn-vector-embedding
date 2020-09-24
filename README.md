@@ -1,5 +1,4 @@
-# churn-vector-embedding
-
+# Deep Learning as a Vector Embedding Model for Customer Churn
 This is the official repository for the paper titled "Deep Learning as a Vector Embedding  Model for Customer Churn"
 
 To train the models, run the notebook train.ipynb. 
